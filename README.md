@@ -6,3 +6,5 @@ Semantic segmentation is a natural step in the progression from coarse to fine i
 - Finally, semantic segmentation achieves fine-grained inference by making dense predictions inferring labels for every pixel, so that each pixel is labeled with the class of its enclosing object ore region.
 
 This network was trained on just 200 labelled training images obtained from KITTI pixel-level semantic dataset. 
+The network is as shown below
+![Image description](SSNet.png)
